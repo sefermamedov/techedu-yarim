@@ -1,0 +1,573 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.services-text h3 {
+  font-size: 28px;
+  color: #333333;
+}
+
+.services-text p {
+  font-size: 13px;
+  color: #666666;
+}
+
+.services-text .cap {
+  margin: 10px 0;
+}
+
+.services-text .cap i {
+  margin: 8px;
+  color: #1bb4b9;
+}
+
+.services-text .cap hr {
+  width: 3%;
+  border: 1px solid #1bb4b9;
+}
+
+#header {
+  background-color: #1bb4b9;
+}
+
+#header .header-all .left span {
+  background-color: #f5b120;
+  padding: 10px 13px 8px;
+  font-size: 12px;
+  color: #ffff;
+}
+
+#header .header-all .left .social {
+  font-size: 12px;
+  color: #ffff;
+}
+
+#header .header-all .left .social i {
+  padding-top: 5px;
+  margin: 5px;
+  font-size: 15px;
+}
+
+#header .header-all .right {
+  padding-top: 12px;
+}
+
+#header .header-all .right i {
+  color: #ffff;
+  font-size: 12px;
+  padding-left: 15px;
+}
+
+#header .header-all .right i span {
+  padding-left: 7px;
+  font-weight: 100;
+}
+
+#header2 {
+  padding: 30px 0;
+}
+
+#header2 .right ul {
+  padding-top: 30px;
+}
+
+#header2 .right ul li {
+  margin: 0 15px;
+}
+
+#header2 .right ul li i {
+  background: #f5b120;
+  padding: 10px;
+  border-radius: 50px;
+  margin-top: -6px;
+}
+
+.second {
+  background-image: url(http://demo.hasthemes.com/techedu-preview/techedu/img/slider/1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 10rem 0;
+}
+
+.second .second-text h1 {
+  font-size: 55px;
+  color: #454545;
+}
+
+.second .second-text p {
+  font-size: 18px;
+  color: #333333;
+  padding: 10px;
+}
+
+.second .second-text a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #ffff;
+  background: #f5b120;
+  padding: 9px 26px;
+  border-radius: 30px;
+  -webkit-transition: .4s;
+  transition: .4s;
+  font-weight: bold;
+}
+
+.second .second-text a:hover {
+  background: #1bb4b9;
+}
+
+.fourth {
+  margin: 4rem 0;
+}
+
+.fourth i {
+  border: 1px solid #f5b120;
+  color: #f5b120;
+  font-size: 70px;
+  border-radius: 50%;
+  padding: 50px;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.fourth i:hover {
+  border: 1px solid #f5b120;
+  background-color: #1bb4b9;
+  color: #ffff;
+}
+
+.fourth h4 {
+  font-size: 18px;
+  padding: 15px 0;
+}
+
+.fourth p {
+  font-size: 12px;
+  color: #666666;
+}
+
+.third {
+  background-color: #f0f0f0;
+  padding: 3rem 0;
+}
+
+.third .third-text {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.third .third-text a {
+  margin-left: 15px;
+  background-color: #1bb4b9;
+  font-size: 18px;
+  padding: 3px 15px;
+  font-weight: bold;
+  color: #ffff;
+  border-radius: 30px;
+  text-decoration: none;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.third .third-text a:hover {
+  background-color: #f5b120;
+}
+
+.third .third-text h2 {
+  font-size: 30px;
+  color: #444444;
+}
+
+.fifth {
+  padding: 5rem 0;
+}
+
+.fifth .fifth-text h3 {
+  font-size: 28px;
+  color: #333333;
+}
+
+.fifth .fifth-text p {
+  font-size: 13px;
+  color: #666666;
+}
+
+.fifth .fifth-text .cap {
+  margin: 10px 0;
+}
+
+.fifth .fifth-text .cap i {
+  margin: 8px;
+  color: #1bb4b9;
+}
+
+.fifth .fifth-text .cap hr {
+  width: 3%;
+  border: 1px solid #1bb4b9;
+}
+
+.fifth .fifth-box .fifth-top {
+  border: 1px solid #f0f0f0;
+}
+
+.fifth .fifth-box .fifth-top h4 {
+  font-size: 15px;
+  color: #333333;
+}
+
+.fifth .fifth-box .fifth-top p {
+  font-size: 12px;
+  color: #666666;
+}
+
+.fifth .fifth-box .fifth-bottom .col-lg-2 {
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.fifth .fifth-box .fifth-bottom .col-lg-2:hover {
+  background-color: #1bb4b9;
+}
+
+.fifth .fifth-box .fifth-bottom .col-lg-2:hover i {
+  color: #ffff;
+}
+
+.fifth .fifth-box .fifth-bottom span {
+  font-size: 12px;
+  color: #666666;
+}
+
+.fifth .fifth-box .fifth-bottom i {
+  margin-left: 15px;
+}
+
+.fifth .fifth-box img {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.sixth {
+  background-image: url(http://demo.hasthemes.com/techedu-preview/techedu/img/banner/1.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 3rem 0;
+  position: relative;
+}
+
+.sixth .overlay {
+  background-color: #000000;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: .4;
+}
+
+.sixth .left h4 {
+  font-size: 24px;
+  color: #ffff;
+}
+
+.sixth .left h4 span {
+  color: #f5b120;
+}
+
+.sixth .left h1 {
+  font-size: 60px;
+  color: #ffff;
+  margin: 20px 0;
+}
+
+.sixth .left .time .time-box {
+  border: 1px solid #ffff;
+  border-radius: 50%;
+  padding: 1rem;
+  margin: 0 10px;
+}
+
+.sixth .left .time .time-box span {
+  font-size: 50px;
+  color: #ffff;
+}
+
+.sixth .right {
+  background-color: #ffff;
+  margin-left: -25px;
+}
+
+.sixth .right .account .account-text {
+  background-color: #f5b120;
+  padding: 15px 0;
+}
+
+.sixth .right .account .account-text i {
+  color: #ffff;
+  margin: 0 10px;
+}
+
+.sixth .right .account .account-text i span {
+  margin-left: 10px;
+}
+
+.sixth .right .account .account-bottom input {
+  display: block;
+  margin: 15px 30px;
+  padding: 3px 10rem 3px 10px;
+  font-size: 15px;
+  border: 1px solid #f0f0f0;
+}
+
+.sixth .right .account .account-bottom button {
+  margin-left: 30px;
+  background-color: #1bb4b9;
+  font-size: 18px;
+  padding: 3px 15px;
+  font-weight: bold;
+  color: #ffff;
+  border-radius: 30px;
+  text-decoration: none;
+  -webkit-transition: .5s;
+  transition: .5s;
+  border: none;
+}
+
+.sixth .right .account .account-bottom button:hover {
+  background-color: #f5b120;
+}
+
+.services {
+  padding: 3rem 0;
+}
+
+.services .services-text h3 {
+  font-size: 28px;
+  color: #333333;
+}
+
+.services .services-text p {
+  font-size: 13px;
+  color: #666666;
+}
+
+.services .services-text .cap {
+  margin: 10px 0;
+}
+
+.services .services-text .cap i {
+  margin: 8px;
+  color: #1bb4b9;
+}
+
+.services .services-text .cap hr {
+  width: 3%;
+  border: 1px solid #1bb4b9;
+}
+
+.services .services-all .left {
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+}
+
+.services .services-all .left:hover p {
+  opacity: 1;
+  -webkit-transform: translateY(-10%);
+          transform: translateY(-10%);
+}
+
+.services .services-all .left:hover i {
+  background-color: #ffff;
+  color: #f5b120;
+  border: 1px solid #f5b120;
+}
+
+.services .services-all .left h6 {
+  font-size: 15px;
+  color: #333333;
+}
+
+.services .services-all .left p {
+  font-size: 13px;
+  opacity: 0;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.services .services-all .left i {
+  background: #f5b120;
+  padding: 30px;
+  font-size: 40px;
+  color: #ffff;
+  border-radius: 50px;
+  -webkit-transition: .5s;
+  transition: .5s;
+  border: 1px solid #f5b120;
+}
+
+.services .services-all .right {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+  padding: 3px 0;
+}
+
+.services .services-all .right:hover p {
+  opacity: 1;
+  -webkit-transform: translateY(-10%);
+          transform: translateY(-10%);
+}
+
+.services .services-all .right:hover i {
+  background-color: #ffff;
+  color: #f5b120;
+  border: 1px solid #f5b120;
+}
+
+.services .services-all .right i {
+  background: #f5b120;
+  padding: 30px;
+  font-size: 40px;
+  color: #ffff;
+  border-radius: 50px;
+  margin-left: -10px;
+  -webkit-transition: .5s;
+  transition: .5s;
+  border: 1px solid #f5b120;
+}
+
+.services .services-all .right p {
+  opacity: 0;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.seventh {
+  padding: 4rem 0;
+  background-image: url(http://demo.hasthemes.com/techedu-preview/techedu/img/banner/3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+}
+
+.seventh .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000000;
+  opacity: .6;
+}
+
+.seventh .seventh-all .seventh-box i {
+  color: #ffff;
+  font-size: 30px;
+}
+
+.seventh .seventh-all .seventh-box h2 {
+  font-size: 50px;
+  color: #ffff;
+  padding: 10px 0;
+}
+
+.seventh .seventh-all .seventh-box span {
+  font-size: 15px;
+  color: #ffff;
+}
+
+.teacher {
+  padding: 5rem 0;
+}
+
+.teacher .teacher-all .teacher-right a {
+  margin-left: 15px;
+  background-color: #1bb4b9;
+  font-size: 15px;
+  padding: 6px 10px;
+  font-weight: bold;
+  color: #ffff;
+  border-radius: 30px;
+  text-decoration: none;
+  -webkit-transition: .5s;
+  transition: .5s;
+}
+
+.teacher .teacher-all .teacher-right a:hover {
+  background-color: #f5b120;
+}
+
+.teacher .teacher-all .teacher-right p {
+  color: #909090;
+  font-size: 12px;
+  margin: 10px 0;
+}
+
+.teacher .teacher-all .teacher-right .teacher-box {
+  margin: 60px 0;
+}
+
+.teacher .teacher-all .teacher-right .teacher-box img {
+  border-radius: 50px;
+  margin: 0 10px;
+}
+
+.teacher .teacher-all .teacher-right .teacher-box img:nth-child(3) {
+  border: 1px solid #1bb4b9;
+}
+
+.teacher .teacher-all .teacher-right .teacher-text h2 {
+  font-size: 15px;
+  line-height: 23px;
+  color: #333333;
+  margin: 0;
+}
+
+.teacher .teacher-all .teacher-right .teacher-text span {
+  font-size: 12px;
+  color: #909090;
+}
+
+.teacher .teacher-all .teacher-right .teacher-social {
+  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 13px;
+  padding-bottom: 8px;
+}
+
+.teacher .teacher-all .teacher-right .teacher-social i {
+  color: #909090;
+  font-size: 12px;
+  margin: 7px 0;
+}
+
+.teacher .teacher-all .teacher-right .teacher-social i span {
+  margin-left: 5px;
+}
+
+.teacher .teacher-all .teacher-right .contact i {
+  color: #bebebe;
+  font-size: 15px;
+  margin: 20px 10px;
+  border-radius: 50px;
+  border: 1px solid #f0f0f0;
+  padding: 20px 20px;
+  -webkit-transition: .5s;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.teacher .teacher-all .teacher-right .contact i:hover {
+  background: #1bb4b9;
+  color: #ffff;
+}
+/*# sourceMappingURL=style.css.map */
